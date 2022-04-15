@@ -1,0 +1,16 @@
+# Ingore .idea/
+.idea
+
+# Ignore the Python interpreter binary cache
+# https://stackoverflow.com/questions/16869024/what-is-pycache
+__pycache__/
+
+# Ignore the Jupyter checkpoints
+# https://stackoverflow.com/questions/46421663/what-are-jupyter-notebook-checkpoint-files-for
+.ipynb_checkpoints/
+
+# Ignore the .ipynb files in the subfolders
+*.ipynb
+
+# Do not ignore the .learn.ipynb files
+!*.learn.ipynb
