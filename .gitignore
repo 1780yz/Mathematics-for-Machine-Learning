@@ -10,7 +10,9 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Ignore the .ipynb files in the subfolders
-*.ipynb
+'Linear Algebra'/*.ipynb
+'Multivariate Calculus'/*.ipynb
+'PCA'/*.ipynb
 
 # Do not ignore the .learn.ipynb files
 !*.learn.ipynb
