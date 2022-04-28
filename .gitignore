@@ -16,3 +16,7 @@ __pycache__/
 
 # Do not ignore the .learn.ipynb files
 !*.learn.ipynb
+
+# Ignore the downloaded data files
+PCA/olivetti_py3.pkz
+
